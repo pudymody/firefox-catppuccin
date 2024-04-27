@@ -15,11 +15,6 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -29,54 +24,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Here are some lines about the project
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
-
-### Installation
-
-1. Clone the repo
-```sh
-git clone https://github.com/pudymody/repo.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/pudymody/repo/issues) for a list of proposed features (and known issues).
+Im ricing my linux setup, and i want firefox to follow my current Catppuccin theme. The problem is that i also have a switcher between light and dark mode, or sometimes i want to change the highlight color. The [firefox colors](https://github.com/catppuccin/firefox) version doesnt allow this, so i wrote this extension. You could install it from the [Firefox addons page](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-selector/)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Catppuccin community](https://github.com/catppuccin/catppuccin)
+* [This comment in a github issue](https://github.com/skhzhang/time-based-themes/issues/31#issuecomment-1436449643)
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -101,4 +55,4 @@ Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[Federico Scodelaro](https://pudymody.netlify.com) - [@pudymody](https://twitter.com/pudymody) - federicoscodelaro@gmail.com
+[Federico Scodelaro](https://federicoscodelaro.com) - [@pudymody](https://twitter.com/pudymody) - federicoscodelaro@gmail.com

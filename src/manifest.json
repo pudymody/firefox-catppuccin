@@ -1,7 +1,7 @@
 {
   "browser_specific_settings": {
       "gecko": {
-          "id": "catppuccin@mozilla.org"
+          "id": "catppuccin@federicoscodelaro.com"
       }
   },
   "manifest_version": 2,
