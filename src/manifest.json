@@ -6,7 +6,7 @@
   },
   "manifest_version": 2,
   "name": "Catppuccin",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Allows you to select a catppucin theme for light and dark mode",
 	"options_ui": {
 		"page": "options.html"
