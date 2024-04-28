@@ -21,3 +21,16 @@ browser.storage.sync.onChanged.addListener(function(changes){
 		updateTheme(changes.light.newValue);
 	}
 });
+
+
+browser.storage.sync.get(["light", "dark"]).then(function({ light, dark }){
+	if( media.matches && dark !== undefined ){
+		updateTheme(dark);
+		return;
+	}
+
+	if( !media.matches && light !== undefined ){
+		updateTheme(light);
+		return;
+	}
+});
