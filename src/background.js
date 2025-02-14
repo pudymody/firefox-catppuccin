@@ -9,6 +9,10 @@ media.addEventListener("change", function(e){
 });
 
 function updateTheme(index){
+	if( index == -1 ){
+		browser.theme.reset();
+		return;
+	}
 	browser.theme.update(Themes[index]);
 }
 
